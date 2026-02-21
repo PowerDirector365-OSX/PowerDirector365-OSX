@@ -1,7 +1,7 @@
 # PowerDirector365 – Video Editor
 
 <p align="center">
-  <img src="https://i.pcmag.com/imagery/reviews/03Di3CLu1MAS49dTgSbEtYw-113..v1634130757.png" width="200" alt="PowerDirector365 icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/94/3e/ec943e8c-6340-98c5-e28a-27feb87e71f8/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" width="200" alt="PowerDirector365 icon"/>
 </p>
 
 <p align="center">
